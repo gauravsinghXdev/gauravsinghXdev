@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/gaurav07singh10" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav07singh10?logo=twitter&style=for-the-badge" alt="gaurav07singh10" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 👨‍💻 All of my projects are available at [https://gauravsinghxdev.github.io/gauravXdev/](https://gauravsinghxdev.github.io/gauravXdev/)
 
 - 💬 Ask me about **Wed development**
 
 - 📫 How to reach me **gaurav07singh10@gmail.com**
+
+- 🌱 I’m currently learning **React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
