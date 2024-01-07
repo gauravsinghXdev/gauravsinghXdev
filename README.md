@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=826&t=st=1704613077~exp=1704613677~hmac=89e151f0c247addbb39ac16d291ccf1960d54d7835c46cb69fdb875917e0c638)](https://github.com/gauravsinghXdev/gauravsinghXdev)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate Web developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/colourful-illustration-programmer-working_23-2148281410.jpg?w=740&t=st=1704613346~exp=1704613946~hmac=697a3bceb65b0f933aeb71b43ef3ffc1129505b157fbcacfc06ca2d4206a14da">
+<img align="right" alt="Coding" width="400" src="https://github.com/gauravsinghXdev/gauravsinghXdev/blob/main/manv2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxdev&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxdev" /> </p>
 
