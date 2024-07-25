@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://gauravsinghxdev.github.io/gauravXdev/](https://gauravsinghxdev.github.io/gauravXdev/)
 
-- 💬 Ask me about **Wed development**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **gaurav07singh10@gmail.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Dev Ops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
